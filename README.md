@@ -8,7 +8,7 @@ Atualmente, o controle de voos, reservas e tripulação é realizado em planilha
 
 Para resolver esses problemas, a **Voo Seguro** contratou uma equipe de desenvolvedores de software (Platinum Logic & Innovation Group ou PLIG ) para desenvolver um sistema de gerenciamento de voos.
 
-**Requisitos e informações extra no PDF de [Requisitos](Docs)**
+**Requisitos e informações extra no PDF de [Requisitos](Docs/Trabalho Pratico - Requisitos.pdf)**
 
 ---
 
